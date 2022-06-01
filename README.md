@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
   Games, Networking, Javascript, Java and Responsible APIs
 - 📫 How to reach me ...
-  wadson.Luiz@gmail.com
+  wadson.luiz@gmail.com
 
 <!---
 Wandersmx/Wandersmx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
